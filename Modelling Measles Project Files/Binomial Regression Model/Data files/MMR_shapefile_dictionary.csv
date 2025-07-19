@@ -1,0 +1,39 @@
+,Parent_Org_Name,Org_Code,Org_Name,UTLA22CD,UTLA22NM
+1,North East,E08000037,Gateshead,E11000007,Tyne and Wear
+2,North East,E08000021,Newcastle upon Tyne,E11000007,Tyne and Wear
+3,North East,E08000022,North Tyneside,E11000007,Tyne and Wear
+4,North East,E08000023,South Tyneside,E11000007,Tyne and Wear
+5,North East,E08000024,Sunderland,E11000007,Tyne and Wear
+6,North West,E08000001,Bolton,E11000001,Greater Manchester
+7,North West,E08000002,Bury,E11000001,Greater Manchester
+8,North West,E08000011,Knowsley,E11000002,Merseyside
+9,North West,E08000012,Liverpool,E11000002,Merseyside
+10,North West,E08000003,Manchester,E11000001,Greater Manchester
+11,North West,E08000004,Oldham,E11000001,Greater Manchester
+12,North West,E08000005,Rochdale,E11000001,Greater Manchester
+13,North West,E08000006,Salford,E11000001,Greater Manchester
+14,North West,E08000014,Sefton,E11000002,Merseyside
+15,North West,E08000013,St. Helens,E11000002,Merseyside
+16,North West,E08000007,Stockport,E11000001,Greater Manchester
+17,North West,E08000008,Tameside,E11000001,Greater Manchester
+18,North West,E08000009,Trafford,E11000001,Greater Manchester
+19,North West,E08000010,Wigan,E11000001,Greater Manchester
+20,North West,E08000015,Wirral,E11000002,Merseyside
+21,Yorkshire and The Humber,E08000016,Barnsley,E11000003,South Yorkshire
+22,Yorkshire and The Humber,E08000032,Bradford,E11000006,West Yorkshire
+23,Yorkshire and The Humber,E08000033,Calderdale,E11000006,West Yorkshire
+24,Yorkshire and The Humber,E08000017,Doncaster,E11000003,South Yorkshire
+25,Yorkshire and The Humber,E08000034,Kirklees,E11000006,West Yorkshire
+26,Yorkshire and The Humber,E08000035,Leeds,E11000006,West Yorkshire
+27,Yorkshire and The Humber,E06000065,North Yorkshire,E10000023,North Yorkshire
+28,Yorkshire and The Humber,E08000018,Rotherham,E11000003,South Yorkshire
+29,Yorkshire and The Humber,E08000019,Sheffield,E11000003,South Yorkshire
+30,Yorkshire and The Humber,E08000036,Wakefield,E11000006,West Yorkshire
+31,West Midlands,E08000025,Birmingham,E11000005,West Midlands
+32,West Midlands,E08000026,Coventry,E11000005,West Midlands
+33,West Midlands,E08000027,Dudley,E11000005,West Midlands
+34,West Midlands,E08000028,Sandwell,E11000005,West Midlands
+35,West Midlands,E08000029,Solihull,E11000005,West Midlands
+36,West Midlands,E08000030,Walsall,E11000005,West Midlands
+37,West Midlands,E08000031,Wolverhampton,E11000005,West Midlands
+38,South West,E06000066,Somerset,E10000027,Somerset
